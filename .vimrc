@@ -16,6 +16,7 @@ Plug 'Yggdroot/indentLine'
 Plug 'dense-analysis/ale'
 Plug 'mileszs/ack.vim'
 Plug 'tpope/vim-commentary'
+Plug 'tpope/vim-fugitive'
 call plug#end()
 
 set number
