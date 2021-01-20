@@ -17,6 +17,7 @@ Plug 'dense-analysis/ale'
 Plug 'mileszs/ack.vim'
 Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-fugitive'
+Plug 'sbdchd/neoformat'
 call plug#end()
 
 set number
@@ -69,4 +70,6 @@ let NERDTreeShowHidden = 1
 "execute "set t_8b=\e[48;2;%lu;%lu;%lum"
 "
 nnoremap <Leader>, :Ag<Space><C-R>=expand('<cword>')<CR><CR>
- let &t_ut=''
+let &t_ut=''
+
+autocmd BufWritePre *.js Neoformat
