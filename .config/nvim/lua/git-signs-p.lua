@@ -6,7 +6,7 @@ require('gitsigns').setup {
     topdelete = {text = '‾' },
     changedelete = {text = '~'},
   },
-  numhl = true,
+  numhl = false,
   keymaps = {
     -- Default keymap options
     noremap = true,
