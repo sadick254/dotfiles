@@ -1,0 +1,32 @@
+{
+    "workspace.library": [
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/neodev.nvim/types/stable",
+        "/usr/local/Cellar/neovim/0.9.1/share/nvim/runtime/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/opt/nvim-treesitter-textobjects/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/opt/telescope-fzf-native.nvim/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/cmp_luasnip/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/Comment.nvim/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/edge/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/fidget.nvim/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/gitsigns.nvim/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/LuaSnip/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/mason.nvim/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/neo-tree.nvim/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/neodev.nvim/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/noice.nvim/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/nui.nvim/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/nvim-lspconfig/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/nvim-notify/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/nvim-treesitter/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/nvim-web-devicons/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/packer.nvim/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/plenary.nvim/lua",
+        "/Users/isaac-personal/.local/share/nvim/site/pack/packer/start/telescope.nvim/lua",
+        "/Users/isaac-personal/dotfiles/.config/nvim/lua",
+        "${3rd}/luv/library"
+    ]
+}
