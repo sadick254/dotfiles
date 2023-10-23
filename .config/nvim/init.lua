@@ -71,6 +71,13 @@ require('packer').startup(function(use)
 	}
 
     	use 'nvim-lualine/lualine.nvim'
+	use {
+	    's1n7ax/nvim-window-picker',
+	    tag = 'v2.*',
+	    config = function()
+		require'window-picker'.setup()
+	    end,
+	}
 
 end)
 
