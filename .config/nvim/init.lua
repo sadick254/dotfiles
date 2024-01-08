@@ -78,6 +78,7 @@ require('packer').startup(function(use)
 		require'window-picker'.setup()
 	    end,
 	}
+	use 'terrastruct/d2-vim'
 
 end)
 
