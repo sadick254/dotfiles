@@ -34,6 +34,10 @@ vim.api.nvim_create_autocmd('TextYankPost', {
   pattern = '*',
 })
 
+-- enable file type plugin indent
+vim.cmd([[set rtp+=/Users/isaac-personal/.opam/default/share/ocp-indent/vim]])
+vim.cmd([[filetype plugin indent on]])
+
 
 -- Diagnostics
 local signs = { Error = " ", Warn = " ", Hint = " ", Information = " " }
